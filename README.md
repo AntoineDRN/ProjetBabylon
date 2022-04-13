@@ -4,6 +4,7 @@ Il s'agit du projet de mini-jeu utilisant Babylon JS
 
 A partir d'un TP vu en cours, et en m'inspirant d'un je très connu (PAC MAN), j'ai tenté de reproduire un gameplay similaire.
 Notre personnage, *la petite boule jaune*, doit collecter les petites boules noires, non pas en évitant Inky, Pinky, Blinky et Clyde mais le dude qui le suit.
+S'il vous attrape, le jeu recommence.
 
 ===========================================================
 
